@@ -3,15 +3,17 @@
 
 # 結果画像
 
-![結果](Movie_001.gif)
+![結果]<video controls src="Scene1.mp4" title="Title"></video>
 
-![結果](Movie_002.gif)
+![結果]<video controls src="Scene2.mp4" title="Title"></video>
 
-![結果](Movie_003.gif)
+![結果]<video controls src="Scene3.mp4" title="Title"></video>
 
-![結果](Movie_004.gif)
+![結果]<video controls src="Scene4.mp4" title="Title"></video>
 
-- 工夫した点：xxx
+- 工夫した点：左クリックしたらShaderが動いて、1周したら止まるようにしました。
+
+※左上のテキストは左クリックしたことを分かりやすく表示するものなので今回の処理には何も関係がありません。
 
 # 進め方
 
