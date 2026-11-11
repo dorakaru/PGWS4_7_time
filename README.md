@@ -3,13 +3,13 @@
 
 # 結果画像
 
-![結果]<video controls src="Scene1.mp4" title="Title"></video>
+![結果]![alt text](result1.png)
 
-![結果]<video controls src="Scene2.mp4" title="Title"></video>
+![結果]![alt text](result2.png)
 
-![結果]<video controls src="Scene3.mp4" title="Title"></video>
+![結果]![alt text](result3.png)
 
-![結果]<video controls src="Scene4.mp4" title="Title"></video>
+![結果]![alt text](result4.png)
 
 - 工夫した点：左クリックしたらShaderが動いて、1周したら止まるようにしました。
 
